@@ -1,77 +1,77 @@
 const quizQuestions = [
     {
-      question: "What is the capital of France?",
+      question: "1. What is the capital of France?",
       options: ["Paris", "London", "Berlin", "Rome"],
       correctAnswer: "Paris"
     },
     {
-      question: "Which planet is known as the Red Planet?",
+      question: "2. Which planet is known as the Red Planet?",
       options: ["Venus", "Mars", "Jupiter", "Saturn"],
       correctAnswer: "Mars"
     },
     {
-      question: "What is the chemical symbol for gold?",
+      question: "3. What is the chemical symbol for gold?",
       options: ["Au", "Ag", "Cu", "Fe"],
       correctAnswer: "Au"
     },
     {
-      question: "Who is the first Indian woman who became the Miss World.",
+      question: "4. Who is the first Indian woman who became the Miss World.",
       options: ["Reita Faria", " Aishwarya Rai", "Lara Dutta", "Priyanka Chopra"],
       correctAnswer: "Reita Faria"
     },
 
       {
-        question: "Which among the following is the longest tunnel in India?",
+        question: "5. Which among the following is the longest tunnel in India?",
         options: ["Pir Panjal Railway Tunnel", " Kabude Tunnel", "Nathuwadi Tunnel", " Berdewadi Tunnel"],
         correctAnswer: "Pir Panjal Railway Tunnel"
       },
       {
-        question: "The mountain Great Dividing Range is located in ?",
+        question: "6. The mountain Great Dividing Range is located in ?",
         options: ["India", "Australia", "New Zealand", "South Africa"],
         correctAnswer: "Australia"
       },
       {
-        question: "The book Romancing with Life was written by ",
+        question: "7. The book Romancing with Life was written by ",
         options: [" Amitabh Bachchan", " Amish Tripathi", " P. Chidambaram", "Dev Anand"],
         correctAnswer: "Dev Anand"
       },
       {
-        question: "Bhabha Atomic Research Center (BARC) is located in ",
+        question: "8. Bhabha Atomic Research Center (BARC) is located in ",
         options: ["Udhagamandalam", "Mumbai", "Hyderabad", "Trombay"],
         correctAnswer: "Trombay"
       },
       {
-        question: " The National Game of Russia is",
+        question: "9. The National Game of Russia is",
         options: ["Baseball", "Tennis", "Chess", "Ice Hockey"],
         correctAnswer: "Chess"
       },
       {
-        question: " Who is the first female amputee who climbed Mt. Everest.",
+        question: "10. Who is the first female amputee who climbed Mt. Everest.",
         options: [" Bachendri Pal ", "Arunima Sinha", "Santosh yadav", "Sonam Gyatso"],
         correctAnswer: "Arunima Sinha"
       },
       {
-        question: "The Election Commission of India (ECI) recognises a party as National Party if it is recognised in at least how many states?",
+        question: "11. The Election Commission of India (ECI) recognises a party as National Party if it is recognised in at least how many states?",
         options: ["Two", "Four", "Six", "Eight"],
         correctAnswer: "Six"
       },
       {
-        question: "Which of the following generation of computers is associated with artificial intelligence? ",
+        question: "12. Which of the following generation of computers is associated with artificial intelligence? ",
         options: ["First", "Third", "Fifth", "Seventh"],
         correctAnswer: "Fifth"
       },
       {
-        question: "The following two states are largest producers of Coal in India?",
+        question: "13. The following two states are largest producers of Coal in India?",
         options: ["Jharkhand & Chhattisgarh", "  Madhya Pradesh & Orissa", "Bihar & West Bengal", "Andhra Pradesh & Chhattisgarh"],
         correctAnswer: "Jharkhand & Chhattisgarh"
       },
       {
-        question: "Which institution developed the Light Combat Aircraft (LCA) Tejas?",
+        question: "14. Which institution developed the Light Combat Aircraft (LCA) Tejas?",
         options: ["HAL", "DRDO", "BEL", "ISRO"],
         correctAnswer: "DRDO"
       },
       {
-        question: "Which Union Ministry announced 5G & Beyond Hackathon 2023?",
+        question: "15. Which Union Ministry announced 5G & Beyond Hackathon 2023?",
         options: ["  Ministry of Communication", "  Ministry of Science and Technology", " Ministry of MSME", "Ministry of External Affairs"],
         correctAnswer: "Ministry of Communication"
       },
